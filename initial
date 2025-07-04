@@ -1,0 +1,8 @@
+csrgenerator/
+├── README.md           # Already added!
+├── index.html          # Your main webpage or tool
+├── css/                # Stylesheets
+├── js/                 # JavaScript files
+├── assets/             # Logos, screenshots, banners
+├── docs/               # (Optional) GitHub Pages content or usage guides
+└── LICENSE             # Open-source license (e.g., MIT)
